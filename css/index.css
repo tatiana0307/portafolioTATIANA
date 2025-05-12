@@ -1,0 +1,20 @@
+.logo{
+    width: 50px;
+}
+
+.navar-collapse{
+    padding: 2rem;
+    background-color: aliceblue;
+}
+
+.navar-collapse{
+    align-items: center;
+    justify-content: space-between;
+}
+
+@media screen  and (max-width:767px){
+    .navbar-bard{
+        display: none;
+    }
+    
+}
